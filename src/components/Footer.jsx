@@ -45,13 +45,13 @@ function Footer() {
             <img className="w-7 h-7 cursor-pointer" src={x} alt="" />
           </div>
         </div>
-        {/* <div class="attribution">
+        <div class="attribution">
           Challenge by{" "}
           <a href="https://www.frontendmentor.io?ref=challenge" target="_blank">
             Frontend Mentor
           </a>
-          . Coded by <a href="#">Your Name Here</a>.
-        </div> */}
+          . Coded by <a href="#">Arham Ali</a>.
+        </div>
       </footer>
     </>
   );
