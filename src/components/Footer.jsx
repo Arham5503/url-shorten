@@ -45,7 +45,7 @@ function Footer() {
             <img className="w-7 h-7 cursor-pointer" src={x} alt="" />
           </div>
         </div>
-        <div class="attribution">
+        <div class="attribution text-white text-center">
           Challenge by{" "}
           <a href="https://www.frontendmentor.io?ref=challenge" target="_blank">
             Frontend Mentor
