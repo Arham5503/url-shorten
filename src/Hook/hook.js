@@ -19,4 +19,4 @@ async function hook(link) {
 }
 
 }
-export default hook
+export default hook;
